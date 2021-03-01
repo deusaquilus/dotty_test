@@ -1,3 +1,6 @@
+# This Repo has been moved
+This repo has been moved to https://github.com/getquill/protoquill.
+
 ## Future Dotty-Based Quill Implementation
 
 Compile using sbt `compile` and `test:compile` normally. Currently on M3.
